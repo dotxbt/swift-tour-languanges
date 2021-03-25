@@ -1,6 +1,6 @@
 # Swift Tour Languages
 
-## Refences
+## References
 - ### [A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 - ### [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
