@@ -1,5 +1,9 @@
 # Swift Tour Languages
 
+## Refences
+- ### [A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
+- ### [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+
 ## Comments
 ```swift
 // line comment
